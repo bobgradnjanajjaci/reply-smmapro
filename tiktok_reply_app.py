@@ -14,7 +14,7 @@ PANEL_URL = "https://smmapro.com/api/v2"
 
 API_KEY = "dc1ab06ff6035c6820503ad5fb191284"          # npr. 6b4b33ef856ee4ef973fcaa450e62786
 
-SERVICE_ID = 4365                           # STAVI TAČAN service ID za TikTok custom comment reply
+SERVICE_ID = 4357                           # STAVI TAČAN service ID za TikTok custom comment reply
 
 
 
