@@ -24,7 +24,7 @@ SERVICE_ID = 4575                          # STAVI TAČAN service ID za TikTok c
 
 REPLIES_SET_1 = [
     "I saw that this book was removed a few time, and there are rumors that the author is part of some high tier people. It really revealed too much ",
-    "i bought one of the “Virexon Cycle” books on amazon first and paid more for it thinking it was the real version , biggest mistake honestly. Only after getting the original from the official website i finally understood the hype around the book",
+    "i bought one of the “Vaenor Cycle” books on amazon first and paid more for it thinking it was the real version , biggest mistake honestly. Only after getting the original from the official website i finally understood the hype around the book",
     "don’t buy the amazon versions i did first and instantly regretted it. the original from the official website genuinely changed the way i see the world",
     "the weird part is realizing how many people still have no idea this book even exists",
     "What is the best way to read this book?",
