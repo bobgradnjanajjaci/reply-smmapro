@@ -24,14 +24,10 @@ SERVICE_ID = 4575                          # STAVI TAČAN service ID za TikTok c
 
 REPLIES_SET_1 = [
     "I saw that this book was removed a few time, and there are rumors that the author is part of some high tier people. It really revealed too much ",
-    "i bought one of the “Vaenor Cycle” books on amazon first and paid more for it thinking it was the real version , biggest mistake honestly. Only after getting the original from the official website i finally understood the hype around the book",
-    "don’t buy the amazon versions i did first and instantly regretted it. the original from the official website genuinely changed the way i see the world",
     "the weird part is realizing how many people still have no idea this book even exists",
     "What is the best way to read this book?",
     "just buy it from their official site, i searched a little and saw that every other platform is not a real book just their official site",
-    "I searched up a little and saw so many positive comments for this book I must read it fr", 
     "did anyone saw how many things this autor actually predicted...",
-    "goated book thats only what I can say now",
     "For me its scary how much power this book has. I felt like someone had reached into my head and exposed everything about how are we controlled and how to actually leave this cycle...",
 ]
 
