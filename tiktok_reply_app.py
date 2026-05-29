@@ -25,9 +25,9 @@ SERVICE_ID = 1128                        # STAVI TAČAN service ID za TikTok cus
 REPLIES_SET_1 = [
     "I saw that this book was removed a few time, and there are rumors that the author is part of some high tier people. It really revealed too much ",
     "For me its scary how much power this book has. I felt like someone had reached into my head and exposed everything about how are we controlled and how to actually leave this cycle...",
-    "‎ AMAZON",
-    "‎AMAZON ",
-    "AMAZON‎ ",
+    "‎This book will become top 1 for money strategies and mindset, I can guarantee that. I highly recommend it to everyone..",
+    "‎If you’re trying to find his book, don’t buy it on Amazon. I made that mistake and it was some weird fake version. The real one isn’t even sold there",
+    "Didnt he get banned from Facebook a while ago because he started getting too much attention? I remember people saying the government didnt like what he was talking about. This whole thing is honestly insane.",
 ]
 
 
