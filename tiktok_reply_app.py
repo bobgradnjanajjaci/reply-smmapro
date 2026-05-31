@@ -14,7 +14,7 @@ PANEL_URL = "https://dnoxsmm.com/api/v2"
 
 API_KEY = "78e1e447b6a8ba2189d0afcd04487c5b"          # npr. 6b4b33ef856ee4ef973fcaa450e62786
 
-SERVICE_ID = 1128                        # STAVI TAČAN service ID za TikTok custom comment reply
+SERVICE_ID = 4575                        # STAVI TAČAN service ID za TikTok custom comment reply
 
 
 
@@ -28,6 +28,11 @@ REPLIES_SET_1 = [
     "‎This book will become top 1 for money strategies and mindset, I can guarantee that. I highly recommend it to everyone..",
     "‎If you’re trying to find his book, don’t buy it on Amazon. I made that mistake and it was some weird fake version. The real one isn’t even sold there",
     "Didnt he get banned from Facebook a while ago because he started getting too much attention? I remember people saying the government didnt like what he was talking about. This whole thing is honestly insane.",
+    "Where can I find it? ",
+    "Original version of book you can only get from their official site, Just search name or the author of the book and first site is real..",
+    "Am I the only one who remembers people saying he got silenced after his work started spreading online? The whole story around him is genuinely weird",
+    "The more I hear about this, the stranger it gets. I vaguely remember people saying he disappeared from the spotlight almost overnight",
+    "I could be wrong, but didn't he suddenly vanish from social media after gaining a huge following? That always seemed suspicious to me...",
 ]
 
 
